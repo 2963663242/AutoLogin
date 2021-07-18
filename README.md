@@ -1,5 +1,5 @@
 # AutoLogin
-本项目是使用浏览器自动登录instagram并保存cookies为netscape格式,以供youtube-dl使用
+本项目是使用浏览器自动登录instagram并保存cookies为netscape格式,以供youtube-dl使用  
 一：下载本项目后要下载三个工具  
 1.python3  
 2.chrome  
